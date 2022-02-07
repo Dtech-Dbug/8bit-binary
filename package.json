@@ -1,0 +1,23 @@
+{
+  "name": "8bit-binary",
+  "version": "1.0.0",
+  "description": "8bit binary encryption algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dtech-Dbug/8bit-binary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dtech-Dbug/8bit-binary/issues"
+  },
+  "homepage": "https://github.com/Dtech-Dbug/8bit-binary#readme",
+  "dependencies": {
+    "ask-ascii": "^1.0.0"
+  }
+}
