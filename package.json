@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Dtech-Dbug/8bit-binary#readme",
   "dependencies": {
-    "ask-ascii": "^1.0.0"
+    "ask-ascii": "^1.0.0",
+    "express": "^4.17.3"
   }
 }
