@@ -12,4 +12,5 @@ function ENCRYPT_8BIT(message) {
 
   return encryptedMessageCharactersArray.join(" ");
 }
-console.log(ENCRYPT_8BIT("HELLO! I am working. Am not I?"));
+
+module.exports = ENCRYPT_8BIT;
